@@ -1,0 +1,124 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98dd3a6a519ed4181bf31ea6bc1f18ebc5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9801af34ddea6be97d757786022edb34b1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bb3e3ebadbb0b9a8a4f20f605e3cb3cb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9832e568d1d64358cf46b257009674a4a8"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9896cd7ae8c7639d8f9257b5465384bf6b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e474ad9306e7b8df54bd6c4337ea1912"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a435583ab4c2282d404489aa813de99b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981a9fac6eb9c80f8eed49fda0531af6a4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986a3314f48204dcd3250955aef3b5b25c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986aa58d33b8894c02f49ea32c3da727fe"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cf304bc5c1177c586ccef8a07b393393"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980fd95eea9a12cb719c760912b1ce7e0f"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e5c2818c35e2b7c38cf0c19d88619323"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9841a9e73b2585cb546680d93608f0e002"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98483832d3c820398e9d40e1a6904b03fe"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f10882e1684b8a3dfdec597bc0a47af3"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ad53226b339581a6725de188f2c8f823"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980b798a3923599ed2156dcd9394f84221"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982c14cdee65a15c26c6e9aaf4d4fdfbd0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981f000f066404b97b12e9c4ca84d38d0f"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98082dc85da1fc941e5234c7cc1f11b27d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980062393f91a1d2d94e3e5ed3a5aa5da9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c9e4d77647dbd2f60d4df5fb297112b6"
+    }
+  ],
+  "containerPath" : "/Users/fahim/Desktop/chit06/ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/fahim/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/fahim/Library/Developer/Xcode/DerivedData/Pods-gfeyhrtcsojegsczrhoqddfmbiws/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/fahim/Library/Developer/Xcode/DerivedData/Pods-gfeyhrtcsojegsczrhoqddfmbiws/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
